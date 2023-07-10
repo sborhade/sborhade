@@ -1,0 +1,50 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.resume {
+  width: 800x;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.resume h1 {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 14px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.contact-info strong {
+  font-size: 18px;
+  margin-bottom: 5px;
+  margin-right: 20px;
+}
+
+.skills p {
+  display: inline-block;
+  margin-right: 10px;
+  /* margin-bottom: 10px; */
+  padding: 6px 12px;
+  background-color: #eaeaea;
+  border-radius: 4px;
+}

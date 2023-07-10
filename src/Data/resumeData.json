@@ -1,0 +1,35 @@
+{
+  "personalInfo": {
+    "name": "Sandeep Borhade",
+    "profileName": "Senior Full Stack Engineer",
+    "email": "shborhade@gmail.com"
+  },
+  "education": [
+    {
+      "degree": "Master of Technology in Computer Science",
+      "university": "Birla Institute of Technology and Science"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "university": "Mumbai University"
+    }
+  ],
+
+  "workExperience": {
+    "company": "Cognizant",
+    "position": "Project Manager",
+    "duration": "2012-Present",
+    "responsibilities": [
+      "Worked for several banking and finance clients including private equity firms and investment banks.",
+      "Cloud Native development using AWS and Azure.",
+      "Writing stored procedure, triggers, views.",
+      "Developed Web API for authentication and data exchange.",
+      "Data analysis using SQL for generation of medium complex report.",
+      "Deployment using teamcity and azure Devops for .net and SQL solutions.",
+      "L3 support for investran CRM issues for client applications.",
+      "Mentoring team members in domain and technology",
+      "Conducted several interviews for organization and account level hiring."
+    ] 
+  },
+  "skills": ["C#", "React", ".Net", "Angular", "SQL", "Git"]
+}
