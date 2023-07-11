@@ -1,4 +1,4 @@
-name: Node.js deployment ActionCI
+name: Node.js deployment Action CI
 
 on:
   push:
