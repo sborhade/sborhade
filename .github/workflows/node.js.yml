@@ -25,6 +25,7 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
+        token: ${{GH_SECRET}}
         cache: 'npm'
     - run: npm install --package-lock-only 
     - run: git config --global user.email "sandeephborhade@gmail.com"
