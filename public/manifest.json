@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "short_name": "React Resume App",
   "name": "Resume",
+=======
+  "short_name": "React App",
+  "name": "React Resume",
+>>>>>>> 84ea6206aff586bc35d8a462ecb5ddf7459307c7
   "icons": [
     {
       "src": "favicon.ico",
