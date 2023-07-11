@@ -27,6 +27,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install --package-lock-only 
+    - run: git config --global user.email "sandeephborhade@gmail.com"
+    - run: git config --global user.name "Sandeep Borhade"
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
