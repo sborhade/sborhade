@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sborhade/static/css/main.99f92a5e.css",
+    "main.js": "/sborhade/static/js/main.c39c5906.js",
+    "static/js/787.4150d702.chunk.js": "/sborhade/static/js/787.4150d702.chunk.js",
+    "index.html": "/sborhade/index.html",
+    "main.99f92a5e.css.map": "/sborhade/static/css/main.99f92a5e.css.map",
+    "main.c39c5906.js.map": "/sborhade/static/js/main.c39c5906.js.map",
+    "787.4150d702.chunk.js.map": "/sborhade/static/js/787.4150d702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f92a5e.css",
+    "static/js/main.c39c5906.js"
+  ]
+}
